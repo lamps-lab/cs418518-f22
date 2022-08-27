@@ -37,15 +37,15 @@ Milestone 1 starts
 | 10) Tuesday, 11/1/2022 | Integrating ES with JavaScript |
 | 10) Thursday, 11/3/2022 | Web design principles; How to make a good presentation; Milestone 3 specifications | Milestone 3 starts
 | 11) Tuesday, 11/8/2022 | Election Day Holiday (no classes) |
-| 11) Thursday, 11/10/2022 | Milestone 2 Demo Session A |
-| 12) Tuesday, 11/15/2022 | Milestone 2 Demo Session B | Milestone 2 report due
+| 11) **Thursday, 11/10/2022** | **Milestone 2 Demo Session A** |
+| 12) **Tuesday, 11/15/2022** | **Milestone 2 Demo Session B** | **Milestone 2 report due**
 | 12) Thursday, 11/17/2022 | reCAPTCHA, spell check, and speech to text APIs |
 | 13) Tuesday, 11/22/2022 | Invited speaker (TBD) |
 | 13) Thursday, 11/24/2022 | Thanksgiving Holiday (no classes) |
 | 14) Tuesday, 11/29/2022 | Security features: XSS and clickjacking vulnerabilities |
 | 14) Thursday, 12/1/2022 | Project time |
-| 15) Tuesday, 12/6/2022 | Milestone 3 Demo Session A |
-| 15) Thursday, 12/8/2022 | Milestone 3 Demo session B | Final report due
+| 15) **Tuesday, 12/6/2022** | **Milestone 3 Demo Session A** |
+| 15) **Thursday, 12/8/2022** | **Milestone 3 Demo session B** | **Final report due**
 
 **Course schedules are subject to change depending on availability of speakers and the instructor.**
 
