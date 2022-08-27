@@ -16,3 +16,5 @@ Students are graded based on the following aspects.
 	- Milestone 1: 30% (demo 20% + report 10%)
 	- Milestone 2: 30% (demo 20% + report 10%)
 	- Milestone 3: 30% (demo 20% + report 10%)
+
+
