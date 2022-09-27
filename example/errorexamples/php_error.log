@@ -1,0 +1,2 @@
+[23-Sep-2021 14:05:32 UTC] PHP Warning:  require(/Users/jianwu/Sites/laravel/myproject/vendor/autoload.php): failed to open stream: No such file or directory in /Users/jianwu/Sites/laravel/myproject/artisan on line 18
+[23-Sep-2021 14:05:32 UTC] PHP Fatal error:  require(): Failed opening required '/Users/jianwu/Sites/laravel/myproject/vendor/autoload.php' (include_path='.:') in /Users/jianwu/Sites/laravel/myproject/artisan on line 18
