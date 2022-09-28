@@ -1,0 +1,501 @@
+etd_file_id,advisor,author,degree,program,title,university,year
+1,neil e. todreas,"tso, chih-ping",m.s.,nuclear engineering,some aspects of radiation induced nucleation in water,massachusetts institute of technology,1970
+2,seymour a. papert,"winograd, terry",ph.d.,mathematics,procedures as a representation for data in a computer program for understanding natural language,massachusetts institute of technology,1970
+3,david p. hoult,"suchon, walter",m.s.,mechanical engineering,an experimental investigation of oil spreading over water,massachusetts institute of technology,1970
+4,ernst g. frankel,"chryssostomidis, chryssostomos",ph.d.,naval architecture and marine engineering,digital simulation of a transportation interface,massachusetts institute of technology,1970
+5,sigurdur helgason,"kelly, edmund francis aloysius",ph.d.,mathematics,immersions of symmetric spaces,massachusetts institute of technology,1970
+6,walter wrigley,"palmer, peter joseph",m.s.,aeronautics and astronautics,inertial gyro life-cycle costs - analysis and management,massachusetts institute of technology,1970
+7,james a. fay,"basu, satyaki",sc.d.,mechanical engineering,ionization in seeded detonation waves,massachusetts institute of technology,1960
+8,augustus r. rogowski,"kilayko, enrique",m.s.,mechanical engineering,ethyl alcohol as fuel for internal combustion engines,massachusetts institute of technology,1960
+9,jay w. forrester,"raff, alfred israel",m.s.,naval architecture and marine engineering,dynamics of the tankship industry,massachusetts institute of technology,1960
+10,douglas p. adams,"simson, anton keats",b.s.,mechanical engineering,analysis of tape drives,massachusetts institute of technology,1960
+11,imre halasz,"holschneider, johannes philipp",m.arch,architecture,"a headquarters for the world health organization in geneva, switzerland",massachusetts institute of technology,1960
+12,bertram kostant,"sweedler, moss eisenberg",ph.d.,mathematics,cocommutative hopf algebras with antipode,massachusetts institute of technology,1965
+13,stanley backer,"el-shiekh, aly hassan mahmoud",sc.d.,mechanical engineering,on the mechanics of twist insertion,massachusetts institute of technology,1965
+14,nishan bichajian,"opitz, calvin fred",b.arch.,architecture,a museum of history for boston,massachusetts institute of technology,1965
+15,eduardo f. catalano,"pedju, ary mochtar",m.arch.,architecture,buildings as systems,massachusetts institute of technology,1965
+16,eduardo f. catalano,"bonar, james robert",m.arch.,architecture,a building system based on growth,massachusetts institute of technology,1965
+17,robert c. reid and charles m. mohr,"gruber, gerald",sc.d.,chemical engineering,automatic generation of thermo-dynamic networks,massachusetts institute of technology,1965
+18,j. p. den hartog,"cannon, robert hamilton",sc.d.,mechanical engineering,performance of hydrofoil systems,massachusetts institute of technology,1950
+19,"c. s. draper, r. c. seamans, jr","clementson, gerhardt christopher",sc.d.,aeronautical engineering dept.,an investigation of the power spectral density of atmospheric turbulence,massachusetts institute of technology,1950
+20,frederick j. adams,"nez, george",m.c.p.,architecture,"survey and city plan for keene, n.h",massachusetts institute of technology,1950
+21,frederick j. adams,"washburn, charles winfred",m.c.p.,architecture,"an economic background study of new bedford, massachusetts",massachusetts institute of technology,1950
+22,,"powell, douglas s",m.c.p.,architecture,"a planning program for the towns of the bridgeport, connecticut, region",massachusetts institute of technology,1950
+23,frederick j. adams,"reuter, frederick h",m.c.p.,architecture,a proposal for the structural reorganization of the planning function in new york city,massachusetts institute of technology,1950
+24,edward s. taylor,"stenning, alan h. (alan hugh)",sc.d.,mechanical engineering,stall propagation in axial compressors,massachusetts institute of technology,1955
+25,egon orowan,"paslay, paul r",sc.d.,mechanical engineering,calendering of an elastic-viscous material,massachusetts institute of technology,1955
+26,"john t. norton, carl wagner","webb, watt wetmore, 1927-",sc.d.,metallurgy,oxidation studies in metal-carbon systems,massachusetts institute of technology,1955
+27,burnham kelly,"reiner, thomas a. (thomas andrew), 1931-",m.c.p.,architecture,a critical survey of published physical planning principles,massachusetts institute of technology,1955
+28,,"paukulis, vivaldis",m.arch.,architecture,"new ywca building, pittsburgh, pa",massachusetts institute of technology,1955
+29,laurence b. anderson,"horowitz, richard m",m.arch.,architecture,a development study for north philadelphia airport,massachusetts institute of technology,1955
+30,richard s. bear,"wyckoff, harold w",ph.d.,biology,x-ray diffraction analysis of the structure of deoxyribonucleic acid,massachusetts institute of technology,1955
+31,l. b. anderson,"scott, norman keith",m.arch.,architecture,toward a new architecture for industry,massachusetts institute of technology,1955
+32,richard c. lord,"wilmot, george barwick",ph.d.,chemistry,the raman spectra and structure of silica and the soda-silica glasses,massachusetts institute of technology,1955
+33,uno ingard,"lyon, richard h",ph.d.,physics,the response of continuous systems to random noise fields,massachusetts institute of technology,1955
+34,,"coughlin, robert edward",m.c.p.,city and regional planning,the community costs resulting from growth,massachusetts institute of technology,1955
+35,d.n. wormley,"jeffcoat, robert lee",ph.d.,mechanical engineering,lateral dynamics and control of rail vehicles,massachusetts institute of technology,1975
+36,woodie flowers,"bott, eric herschler",b.s.,mechanical engineering,hydraulic damper design for a knee prosthesis,massachusetts institute of technology,1975
+37,david n. wormley,"azuma, alberto",m.s.,mechanical engineering,modeling and simulation of a steam power station,massachusetts institute of technology,1975
+38,d.e. whitney,"maizza neto, octavio",ph.d.,mechanical engineering,modal analysis and control of flexible manipulator arms,massachusetts institute of technology,1975
+39,k. hoffman,"shiman, leon gardner",ph.d.,mathematics,grammar for vision,massachusetts institute of technology,1975
+40,i. halasz,"hayes, steven coburn",m.arch.,architecture,air rights development of urban transit corridors,massachusetts institute of technology,1975
+41,eduardo catalano,"soupcoff, william harold",m.arch.a.s.,architecture,housing : box and panel,massachusetts institute of technology,1975
+42,stanford anderson,"cylkowski, david",m.arch.,architecture,an additive approach to the design of urban paths and edges,massachusetts institute of technology,1975
+43,edward allen,"loftness, vivian ellen",m.arch.,architecture,natural forces and the craft of building : site reconnaissance,massachusetts institute of technology,1975
+44,d. b. broughton,"neuhaus, sanford j",s.b.,chemical engineering,the corrosion of steel in saline solutions of hydrogen sulfide,massachusetts institute of technology,1945
+45,john chipman,"chen, xinmin",sc.d.,metallurgy,the chromium-oxygen-hydrogen equilibrium in liquid iron,massachusetts institute of technology,1945
+46,prof. anderson,"gangnes, arnold g. (arnold gordon), 1918-",m.arch.,architecture,a study of a railroad terminal for seattle,massachusetts institute of technology,1946
+47,arthur t. ippen,"stone, archie allan",m.s.,civil and environmental engineering,theoretical investigation of standing waves in hydraulic structures,massachusetts institute of technology,1946
+48,john a. hrones,"newton, richard y",m.s.,mechanical engineering,design of dynamic analyzer,massachusetts institute of technology,1946
+49,raphael salem,"crandall, stephen h",ph.d.,mathematics,on the fourier series of the square of a function,massachusetts institute of technology,1946
+50,,"maack, viggo e",b.s.,naval architecture and marine engineering,trawler design,massachusetts institute of technology,1947
+51,,"holmes , james a .",educat.d.,marketing,"formatting variables and typeface variations of dot-matrix print and their effect on reading comprehension and reading speed ( type , readability , computer , legibility )",virginia polytechnic institute and state university,1986
+52,,"cotter , henry van tuyl",educat.d.,special education,"a comparison of the efficiency and effectiveness of two models for determining the cost of special education programs ( virginia , finance , evaluation )",virginia polytechnic institute and state university,1986
+53,,"connaway , melissa clare",ph.d.,polymers,fundamental adhesive studies of block copolymers,virginia polytechnic institute and state university,1986
+54,,"crutchley , claire elaine",educat.d.,education history,"the experience of the catholic diocese of richmond with esea title i , april 1965 -- december 1976 ( virginia , church/state )",virginia polytechnic institute and state university,1986
+55,,"marshall , sterling i .",ph.d.,analytical chemistry,assessment of coal liquefaction behavior through product characterization with hyphenated chromatographic/spectroscopic methods,virginia polytechnic institute and state university,1986
+56,,"saed , mohammad ali",ph.d.,civil engineering,scaling effect in cone penetration testing in sand,virginia polytechnic institute and state university,1987
+57,,"tang , bruce shiu-leung",ph.d.,electrical engineering,intelligent and integrated load management system,virginia polytechnic institute and state university,1987
+58,,"mckenna , james richard",ph.d.,industrial engineering,attentional demand evaluation for an automobile moving-map navigation system,virginia polytechnic institute and state university,1987
+59,f. donald bloss,"grymes , joanna m .",ph.d.,geology,refractometry by total reflection,virginia polytechnic institute and state university,1987
+60,,"randall , john lewis , jr .",ph.d.,botany,the systematics and ecology of boletes with special reference to the genus suillus and its ectomycorrhizal relationships in nepal,virginia polytechnic institute and state university,1987
+61,,"shalev , doron",ph.d.,chemistry,design and characterization of zeolite supported cobalt carbonyl catalysts,virginia polytechnic institute and state university,1987
+62,,"kienas , kenneth lee",ph.d.,finance,the agency cost of financial decision-making : an empirical analysis,virginia polytechnic institute and state university,1987
+63,,"antenucci , robert nicholas",educat.d.,school administration,an analysis of trends and conditions in school districts with black superintendents and a composite profile of the black superintendent at his/her initial appointment,virginia polytechnic institute and state university,1987
+64,sedki m. riad,"hall , lena",ph.d.,electrical engineering,dielectric characterization using a wideband dielectric filled cavity ( wdfc ),virginia polytechnic institute and state university,1987
+65,"e. g., ii henneke","bredenkamp , brian victor",ph.d.,materials science,lamb wave propagation in laminated composite plates,virginia polytechnic institute and state university,1988
+66,dale d. wolf,"hawkins , ronald eugene",ph.d.,agronomy,no-till establishment of switchgrass and caucasian bluestem,virginia polytechnic institute and state university,1988
+67,janet sawyers,"lai , lin-ying",ph.d.,home economics,a comparison of the circumplex model of family functioning and maccoby and martin 's parenting typologies,virginia polytechnic institute and state university,1988
+68,khidir w. hilu,"yurochko , william p .",ph.d.,botany,pollination ecology of the simultaneously flowering impatiens capensis and i. pallida,virginia polytechnic institute and state university,1988
+69,k. l. reifsnider,"aiello , helene sarah",ph.d.,mechanics,prediction model for the onset of edge-effect delamination at holes in composite laminates,virginia polytechnic institute and state university,1988
+70,james k. palmer,"santon , beryle crockett",ph.d.,food science,isolation and characterization of ferulic acid carbohydrate esters from corn hull ( zea mays ),virginia polytechnic institute and state university,1988
+71,ronald l. mckeen,"clemons , clell richardson , jr .",ed.d.,school administration,"a descriptive and exploratory study of peer coaching and selected factors in the working environment of elementary , middle , and high school teachers in a large suburban virginia public school system",virginia polytechnic institute and state university,1988
+72,harold e. burkhart,"hellstern , ann marie",ph.d.,forestry,an analysis of correlated curve trend experiments in eucalyptus grandis,virginia polytechnic institute and state university,1988
+73,david e. hutchins,"sheridan , margaret mary",ed.d.,academic guidance counseling,"the assessment of behavior patterns , personality characteristics and theoretical orientations for master 's level counseling students",virginia polytechnic institute and state university,1988
+74,harold l. stalford,"arnold , cynthia ann",ph.d.,aerospace materials,suboptimal period design for a maneuvering missile to evade tracking filters,virginia polytechnic institute and state university,1988
+75,daniel b. fleming,"gysel , libra jan cleveland",ed.d.,curricula,german high school history textbooks : how well do they deal with the rise and fall of the third reich ?,virginia polytechnic institute and state university,1988
+76,philip r. jones,"arhancet , juan pedro",ed.d.,academic guidance counseling,assessment of a mentor program on self-concept and achievement variables of middle school underachievers,virginia polytechnic institute and state university,1988
+77,larry a. harris,"kim , ha chul",ed.d.,curricula,the value of state level textbook adoption systems as perceived by selected textbook publishing personnel,virginia polytechnic institute and state university,1988
+78,carl o. mcdaniels,"yordan hernandez , jorge luis",ed.d.,academic guidance counseling,the relationships of occupational stress and certain other variables to job satisfaction of licensed professional counselors in virginia,virginia polytechnic institute and state university,1988
+79,j. e. mcgrath,"chermak , john alan",ph.d.,polymers,"synthesis , characterization and kinetic investigations of heterophase materials prepared using group transfer polymerization",virginia polytechnic institute and state university,1989
+80,james e. mcgrath,"arenburg , robert thomas",ph.d.,polymers,"structure-property behavior of polyimide homopolymers , copolymers , and blends",virginia polytechnic institute and state university,1989
+81,harold w. stubblefield,"gruhn , christine mae",ed.d.,adult education,"whisper out loud ! `` spirochete '' , a living newspaper , 1937-1939 , produced by the federal theatre project , an instrument for public health education in the war on syphilis",virginia polytechnic institute and state university,1989
+82,mark e. davis,"ayangbile , gbemiga adekunmi",ph.d.,chemical engineering,supported aqueous phase catalysis,virginia polytechnic institute and state university,1989
+83,garth l. wilkes,"cohen , david henry",ph.d.,chemical engineering,structure-property relationships of electron beam-irradiated monomeric and polymeric systems,virginia polytechnic institute and state university,1989
+84,roe-hoan yoon,"fenchak , richard john",ph.d.,mining,studies on the stability of thin films in bubble-particle adhesion,virginia polytechnic institute and state university,1989
+85,j. d. rimstidt,"morris , linda ellen",ph.d.,geochemistry,the kinetics and thermodynamics of clay mineral reactions,virginia polytechnic institute and state university,1989
+86,j. n. reddy,"oliveira , anthony joseph",ph.d.,mechanics,analysis of metal matrix composite structures using a micromechanical constitutive theory,virginia polytechnic institute and state university,1989
+87,"orson k., jr. miller","anderton , lillie mae",ph.d.,botany,"effect of a heavy metal on ecto- and vesicular-arbuscular mycorrhizal fungi : the physiology , ultrastructure , and ecology of copper stress and tolerance",virginia polytechnic institute and state university,1989
+88,j. p. fontenot,"bennett , kimberly dean",ph.d.,livestock,utilization of crab processing waste and chitin associated with the waste as feed for ruminants,virginia polytechnic institute and state university,1989
+89,steven a. sinclair,"semanic-lauth , susan ann",ph.d.,forestry,the adoption of innovative wood processing technologies in the building products industry,virginia polytechnic institute and state university,1989
+90,marcie boucouvalas,"chang , chian-yeun",ed.d.,developmental psychology,strategies and tactics to access intuition : a look at the moment of solution,virginia polytechnic institute and state university,1990
+91,wayne m. worner,"sehn , allen lee",ed.d.,school administration,ethics and the principalship,virginia polytechnic institute and state university,1990
+92,f. asche,"wang , zhiqiang",ed.d.,vocational education,the recruitment and retention of african-american students in vocational teacher education,virginia polytechnic institute and state university,1990
+93,r. o. claus,"chism , william john",ph.d.,optics,optical fiber modal domain sensors for dynamic strain measurement,virginia polytechnic institute and state university,1990
+94,cosby s. rogers,"barton , thomas f .",ph.d.,preschool education,an investigation of the relationship between playfulness and self-esteem,virginia polytechnic institute and state university,1990
+95,joseph wang,"hellgeth , john william",ph.d.,architecture,towards a culturally identifiable architecture,virginia polytechnic institute and state university,1990
+96,j. michael duncan,"desimone , joseph mark",ph.d.,civil engineering,experimental study of earth pressures on retaining structures,virginia polytechnic institute and state university,1990
+97,david a. dillard,"eid , walid khaled",ed.d.,materials science,transient moisture effects on the viscoelasticity of synthetic fibers and composites,virginia polytechnic institute and state university,1990
+98,s. wayne bingham,"baba , mutasim fuad",ph.d.,botany,environmental influence on postemergence chemical control of crabgrass ( digitaria spp . ) in turf,virginia polytechnic institute and state university,1990
+99,john g. dillard,"dingus , thomas a .",ph.d.,chemistry,the effect of surface modification on the crystal growth of iron oxides,virginia polytechnic institute and state university,1990
+100,james e. mcgrath,"gunter , mickey e .",ph.d.,polymers,synthesis of well-defined single and multiphase polymers using various living polymerization methods,virginia polytechnic institute and state university,1990
+101,,"miner, priscilla ann",ph.d.,literature,eleventh and twelfth century latin epigram.,"university of california, berkeley",1970
+102,,"king, james cornelius",ph.d.,computer science,a program verifier,carnegie mellon university,1970
+103,,"krause, corinne azen",ph.d.,history,the jews in mexico: a history with special emphasis on the period from 1857 to 1930,university of pittsburgh,1970
+104,,"brown, ian douglas",ph.d.,mathematics,representations of finitely generated nilpotent groups,yale university,1970
+105,,"koetzle, thomas frederick",ph.d.,chemistry,structural and molecular orbital studies of carboranes,harvard university,1970
+106,,"powell, eugene alexander",ph.d.,aerospace materials,nonlinear combustion instability in liquid propellant rocket engines,georgia institute of technology,1970
+107,,"white, charles wayne",ph.d.,psychology;experiments,visual masking and the temporal course of lateral inhibition in the humanvisual system,stanford university,1970
+108,,"garfinkel, irwin",ph.d.,finance,financing medical care: a welfare economics analysis,university of michigan,1970
+109,,"lessing, ronald",d.b.a.,industrial engineering,an analysis of the quality characteristics of markovian systems,"university of maryland, college park",1970
+110,,"kuo, albert yi-shuong",ph.d.,mechanics,experiments on the internal intermittency in turbulent flow,the johns hopkins university,1970
+111,,"cockran, david hudson, iii",ph.d.,history,"the new england colonists' english image, 1550-1714","university of california, berkeley",1970
+112,,"franklin, herbert alexander",ph.d.,civil engineering,nonlinear analysis of reinforced concrete frames and panels,"university of california, berkeley",1970
+113,,"krimsley, victor seth",ph.d.,organic chemistry,physical-organic studies of organotin compounds,"university of california, berkeley",1970
+114,,"hasselman, margaret paine",ph.d.,music,the french chanson in the fourteenth century.,"university of california, berkeley",1970
+115,,"levine, ronald dorian",ph.d.,mathematics,the compact euclidean space forms of dimension four,"university of california, berkeley",1970
+116,,"kellman, sanford alan",ph.d.,astronomy;astrophysics,the equilibrium and stability of the gaseous component of the galaxy,"university of california, berkeley",1970
+117,,"cohen, arthur ira",ph.d.,electrical engineering,rate of convergence and optimality properties of root finding and optimization algorithms,"university of california, berkeley",1970
+118,,"fisher, david allen",ph.d.,computer science,control structures for programming languages,carnegie mellon university,1970
+119,,"erel, bilgin",ph.d.,civil engineering,physico-chemical model analysis for compressibility of pure clay,carnegie mellon university,1970
+120,,"pearce, george franklin",d.a.,history,american expansionist sentiment and the annexation of hawaii,carnegie mellon university,1970
+121,,"strecker, william daniel",ph.d.,electrical engineering,an analysis of the instruction execution rate in certain computer structures,carnegie mellon university,1970
+122,,"ortiz-garcia, angel luis",d.a.,history,andrew johnson's veto of the first reconstruction act,carnegie mellon university,1970
+123,,"grason, john",ph.d.,electrical engineering,methods for the computer-implemented solution of a class of 'floor plan' design problems,carnegie mellon university,1970
+124,,"decoufle, pierre",s.c.d.c.,biostatistics,mortality patterns of a group of retired asbestos workers,university of pittsburgh,1970
+125,,"wilson, marian monyok",ph.d.,psychology;experiments,novelty as reinforcement for children,university of pittsburgh,1970
+126,,"bicanich, thomas paul",educat.d.,education history,an analysis of the shorthand textbook used in american high schools priorto 1900,university of pittsburgh,1970
+127,,"allen, charles",educat.d.,school administration,a study of the street academy program in pittsburgh,university of pittsburgh,1970
+128,,"moore, mary eva welfer",ph.d.,special education,"developing body image and skills of orientation, mobility and social competence in preschool multiply handicapped blind children",university of pittsburgh,1970
+129,,"cairns, john joseph",educat.d.,school administration,an analysis of the distressed school district--commonwealth of pennsylvania,university of pittsburgh,1970
+130,,"hollander, earl donald",ph.d.,public health,"utilization and views of available health care among residents in three poverty neighborhoods in pittsburgh, pennsylvania",university of pittsburgh,1970
+131,,"ponomarev, paul",ph.d.,mathematics,class numbers of positive definite quaternary forms,yale university,1970
+132,,"allison, bruce normansell",ph.d.,mathematics,rational data for isomorphism of lie algebras,yale university,1970
+133,,"payne, richard steven",ph.d.,physics,heat as a probe of superfluid helium flow,yale university,1970
+134,,"shuraydi, hasan a.",ph.d.,literature,the medieval muslim attitude toward youth,yale university,1970
+135,,"johnson, kurt edward",ph.d.,biology,the role of cellular adhesiveness in amphibian gastrulation,yale university,1970
+136,,"chou, ting-chao",ph.d.,pharmacology,l-asparagine biosynthesis and its control,yale university,1970
+137,,"caputo, david armand",ph.d.,political science,the normative and empirical implications of the budgetary processes of four medium-size cities,yale university,1970
+138,,"drake, charles henry",educat.d.,educational psychology,the relation of automatization to the reading process in children and adolescents.,harvard university,1970
+139,,"bates, alan hunt",ph.d.,chemistry,organogermanium-nitrogen and organosilicon-nitrogen compounds,harvard university,1970
+140,,"koetzle, thomas frederick",ph.d.,chemistry,structural and molecular orbital studies of carboranes,harvard university,1970
+141,,"fossel, eric thor",ph.d.,organic chemistry,stereoselectivity in the thermal rearrangement of an optically active methylenecyclobutane,harvard university,1970
+142,,"siska, peter emil",ph.d.,chemistry,kinematics and dynamics of reactive collisions,harvard university,1970
+143,,"mussalli, yusuf g.",ph.d.,civil engineering,a study of flow conditions in shaft spillways,georgia institute of technology,1970
+144,,"mosher, arthur joseph",ph.d.,organic chemistry,the reaction of atomic oxygen with organic compounds,georgia institute of technology,1970
+145,,"powell, eugene alexander",ph.d.,aerospace materials,nonlinear combustion instability in liquid propellant rocket engines,georgia institute of technology,1970
+146,,"morris, charles franklin, jr.",ph.d.,electrical engineering,the effects of partially coherent radiation on the performance of an optical heterodyne receiver,georgia institute of technology,1970
+147,,"ghosh, sambhunath",ph.d.,sanitation,kinetics of aerobic utilization of mixed sugars by heterogeneous microbial populations,georgia institute of technology,1970
+148,,"sanders, james robinson, jr.",ph.d.,chemistry,composition of group ii organometallic and metal hydride compounds in ether solvents,georgia institute of technology,1970
+149,,"landel, robert davis",ph.d.,industrial engineering,commodity market dynamics: a systems analysis of fundamental relationships,georgia institute of technology,1970
+150,,"joy, edward bennett",ph.d.,electrical engineering,spatial sampling and filtering in near-field measurements,georgia institute of technology,1970
+151,,"burroughs, john robert crull",ph.d.,literature,a dream of property: the theme of identity in anthony trollope's first seven novels,stanford university,1970
+152,,"shepard, kenneth wayne",ph.d.,condensation,microwave enhanced superconductivity,stanford university,1970
+153,,"frost, otis lamont, iii",ph.d.,electrical engineering,adaptive least squares optimization subject to linear equality constraints,stanford university,1970
+154,,"hanzlik, robert paul",ph.d.,organic chemistry,enzymic and acid cyclizations of squalene oxide analogs,stanford university,1970
+155,,"olson, gary monroe",ph.d.,psychology;experiments;cognitive therapy;linguistics,on the cognitive structure of noun phrases: memory for prenominal adjectives in ordinary english sentences,stanford university,1970
+156,,"white, charles wayne",ph.d.,psychology;experiments,visual masking and the temporal course of lateral inhibition in the humanvisual system,stanford university,1970
+157,,"correa-zoli, yole",ph.d.,linguistics,lexical and morphological aspects of american italian in san francisco,stanford university,1970
+158,,"mercado, carmen maria",ph.d.,pharmacology,substituted piperazines as potential schistosomicides,university of michigan,1970
+159,,"sundaresan, krishnan",ph.d.,organic chemistry,thermolysis of lithium cyclobutoxides,university of michigan,1970
+160,,"babich, george, sr.",ph.d.,school administration,"educational administration and educational data processing, the first decade: a descriptive study of selected michigan schools",university of michigan,1970
+161,,"niemi, gunnar wayne",ph.d.,philosophy,modality and self-reference,university of michigan,1970
+162,,"laux, louis joseph, jr.",ph.d.,zoology,non-breeding surplus and population structure of the red-winged blackbird(agelaius phoeniceus),university of michigan,1970
+163,,"mattson, james stewart",ph.d.,analytical chemistry,infrared internal reflectance spectroscopic studies of the surface chemistry of activated carbon,university of michigan,1970
+164,,"morton, john elliott",ph.d.,economic theory,"portfolio balance, growth, and long-run balance-of-payments adjustment",university of michigan,1970
+165,,"hoge, albert russell",ph.d.,chemical engineering,hydrogenation of alpha-methylstyrene in a trickle-bed reactor employing anon-porous catalyst,"university of maryland, college park",1970
+166,,"huang, frank tsung-chien",ph.d.,aerospace materials,ionospheric parameters deduced from langmuir probe measurements,"university of maryland, college park",1970
+167,,"cunitz, robert jesse",ph.d.,psychology;experiments,relationship between slow drift and smooth pursuit eye movements,"university of maryland, college park",1970
+168,,"sebastian, richard lee",ph.d.,condensation,ultrasonic investigation of strong-coupling superconductivity in lead,"university of maryland, college park",1970
+169,,"reichard, douglas warren",ph.d.,organic chemistry,thermal reorganizations of isopropenylcycloheptatrienes studies of homoconjugation,"university of maryland, college park",1970
+170,,"han, chang sun",ph.d.,electrical engineering,analysis of cyclotron-type electric lenses and the effects of posts,"university of maryland, college park",1970
+171,,"lessing, ronald",d.b.a.,industrial engineering,an analysis of the quality characteristics of markovian systems,"university of maryland, college park",1970
+172,,"trifunac, natalia pisker",ph.d.,organic chemistry,photochemical cis-trans isomerization of beta-styrylferrocene,california institute of technology,1970
+173,,"luecke, glenn richard",ph.d.,mathematics,paranormal operators on a hilbert space,california institute of technology,1970
+174,,"parker, gerhard h.",ph.d.,electromagnetism,tunneling in schottky barriers,california institute of technology,1970
+175,,"rastogi, prabhat kumar",ph.d.,metallurgy,part i. kinetics of coarsening of the gamma-prime precipitate in nickel - silicon alloys. part ii. rate of crystallization of an amorphousiron - phosphorus - carbon alloy,california institute of technology,1970
+176,,"jassby, kenneth mark",ph.d.,metallurgy,an experimental study of the mobility of edge dislocations in pure coppersingle crystals,california institute of technology,1970
+177,,"petersson, george arthur",ph.d.,organic chemistry,filtering n.m.r. spectra,california institute of technology,1970
+178,,"blumenthal, donald lawrence",ph.d.,aerospace materials,experimental study of satellite wakes in a simulated ionospheric plasma,california institute of technology,1970
+179,,"kuhar, michael joseph",ph.d.,biophysics,subcellular localization of glutamic acid and other tritium labeled-amino acids in cerebral cortical slices of the rat,the johns hopkins university,1970
+180,,"phillips, juliet rapaport",ph.d.,psychology;experiments,formal characteristics of speech which mothers address to their young children,the johns hopkins university,1970
+181,,"kuo, albert yi-shuong",ph.d.,mechanics,experiments on the internal intermittency in turbulent flow,the johns hopkins university,1970
+182,,"chen, hsin-hsiung",ph.d.,condensation,exchange interaction model of ferromagnetism,the johns hopkins university,1970
+183,,"mcfarlane, paul thomas",ph.d.,social psychology,racial and social class differences in the play of a parent-child simulation game,the johns hopkins university,1970
+184,,"anhalt, john paul",ph.d.,organic chemistry,"i. the photolysis of 1,2-diphenylcyclobutene. ii. the synthesis of 9,10-cyclobutenophenanthrene from 9,10-dimethylene-9,10-dihydrophenanthrene. iii. pyrolysis of 2-methylene-3,4,5,6-dibenzo-3'4'-(9,10-phenanthro)spirobicyclohexane. iv. the decomposition of n-nitrosoketimines",the johns hopkins university,1970
+185,,"brustkern, richard lee",ph.d.,civil engineering,an analytical treatment of two-phase flow during infiltration,colorado state university,1970
+186,,"verzino, william john, jr.",ph.d.,organic chemistry,diphenylmethyl bishydroperoxide: an anomalous product from the ozonolysis of tetraphenylethylene,colorado state university,1970
+187,,"hansen, wayne richard",ph.d.,biology,polonium-210 in soils and plants,colorado state university,1970
+188,,"taylor, robert leighton",ph.d.,chemistry,kinetics of the cerium (iv)-vanadium (iv) reaction in aqueous perchloric acid solution,colorado state university,1970
+189,,"johnson, dallas eugene",ph.d.,statistics,interaction in two-way classifications without replication,colorado state university,1970
+190,,"petrela, dashamir maliq",ph.d.,electrical engineering,filters with minimum amplifier sensitivity,colorado state university,1970
+191,,"young, james forrest",ph.d.,optics,visible cw optical parametric oscillators,stanford university,1970
+192,,"frost, otis lamont, iii",ph.d.,electrical engineering,adaptive least squares optimization subject to linear equality constraints,stanford university,1970
+193,louis a. penner,"chuong, tran nhu",ph.d.,social psychology,a cross-cultural comparison of vietnamese and american value systems.,university of south florida,1976
+194,,"clough, fred wayne",ph.d.,organic chemistry,studies involving thienopyridine and thienopyrazine analogs of biologically active molecules.,university of south florida,1976
+195,annie w. ward,"seligsohn, harriet cohen",ph.d.,education,academic advising: an approach to evaluation.,university of south florida,1976
+196,you-feng lin,"rose, david alon",ph.d.,mathematics,on generalizations of continuity.,university of south florida,1977
+197,daniel l. akins,"santa cruz, thomas david",ph.d.,analytical chemistry,energy transfer and kinetic studies of electrochemiluminescence of aromatic hydrocarbons.,university of south florida,1976
+198,a. edward uprichard,"babb, james herman",ph.d.,science education,"the effects of textbook instruction, manipulatives and imagery on recall of the basic multiplication facts.",university of south florida,1975
+199,athanassios g. kartsatos,"ward, james robert, jr.",ph.d.,mathematics,contributions to the existence and stability of solutions to nonlinear volterra integral equations.,university of south florida,1974
+200,,"lukaszek, wieslaw a.",ph.d.,electrical engineering,conduction mechanisms in low breakdown voltage silicon p-n junctions.,university of south florida,1974
+201,,"richardson, graham",ph.d.,psychology;experiments,spatial thought and verbal ability in children retarded in reading,university of cambridge (united kingdom),1980
+202,,"perrott, frances alayne",ph.d.,geography,"late quaternary lakes in the ziway-shala basin, southern ethiopia",university of cambridge (united kingdom),1979
+203,,"maceoin, denis martin",ph.d.,religious history,from shaykhism to babism. a study in charismatic renewal in shi'i islam,university of cambridge (united kingdom),1979
+204,,"corbeil, robert roland",ph.d.,genetics,a genetic analysis of maturation in tomatoes in terms of components of earliness,university of toronto (canada),1964
+205,,"gordon, stuart albert",ph.d.,aerospace materials,flow of low density air over a heated flat plate at mach no. 0.5,university of toronto (canada),1964
+206,,"singh, jarnail",ph.d.,mathematics,statistical theory of selection (selection problems).,university of toronto (canada),1963
+207,,"hassan, mostafa ahmed",ph.d.,electrical engineering,nonlinear feedback configurations in the theory of invariance,university of toronto (canada),1964
+208,,"rose, edward joseph",ph.d.,literature,mental forms creating: a study in blake's thought and symbols.,university of toronto (canada),1963
+209,,"dassa, clement",ph.d.,educational evaluation,a factor analytic model for longitudinal data,university of toronto (canada),1980
+210,,"caudarella, mauro",ph.d.,physiological psychology,effects of stimulation and suppression of the hippocampus on learning and memory,university of toronto (canada),1980
+211,,"foster, francis stuart",ph.d.,biophysics,the development of new ultrasonic imaging techniques for the early detection of breast cancer,university of toronto (canada),1980
+212,,"siddique, c. muhammad",ph.d.,families & family life;personal relationships;sociology,work and family in contemporary industrial society,university of toronto (canada),1980
+213,,"koniuk, roman george",ph.d.,particle physics,baryon decay in the quark model,university of toronto (canada),1980
+214,,"yalpani, mansur",ph.d.,polymers,selective chemical modification of polysaccharides,the university of british columbia (canada),1980
+215,,"humphrey, gary keith",m.a.,philosophy,"transitivity, identity conservation and equivalence conservation of a solid continuous quantity",the university of british columbia (canada),1976
+216,,"de glas, michel",m.a.sc.,engineering,maximum likelihood identification of linear discrete-time systems,the university of british columbia (canada),1976
+217,,"ryan, joan",ph.d.,cultural anthropology,squamish socialization.,the university of british columbia (canada),1973
+218,,"huckin, stuart nicholas",ph.d.,organic chemistry,studies in the synthetic utility of the dianion of beta-ketoesters.,the university of british columbia (canada),1973
+219,,"chaudhari, ram das",ph.d.,physics,superconductivity in thin films,the university of british columbia (canada),1964
+220,,"newnham, robert montague",ph.d.,forestry,the development of a stand model for douglas fir,the university of british columbia (canada),1964
+221,,"chew, kim lin",ph.d.,mathematics,extensions of rings and modules,the university of british columbia (canada),1965
+222,,"lee, william leung him",ph.d.,physics,dynamics of a theta pinch discharge in a transverse magnetic field,the university of british columbia (canada),1966
+223,,"gletsos, constantine",ph.d.,organic chemistry,synthetic studies in indole alkaloids,the university of british columbia (canada),1968
+224,,"dix, trevor ian",ph.d.,computer science,design of a distributed unix kernel and its modelling in csp,university of melbourne (australia),1985
+225,,"ito, yushi",ph.d.,science history,"earth science in the scientific revolution, 1600-1728 (england)",university of melbourne (australia),1985
+226,,"flintoft, mary luserna",ph.d.,literature;middle ages,landscape of desire and menace: a literary study of medieval french garden imagery,university of melbourne (australia),1982
+227,,"murphy, kerry rosaleen",ph.d.,music,the formation of the music criticism of hector berlioz (1823--1837) (france),university of melbourne (australia),1984
+228,,"gear, john anthony",ph.d.,mechanics,wave propagation in density stratified fluids,university of melbourne (australia),1984
+229,,"chalmers, peter james",ph.d.,organic chemistry,"polyketide quinones (synthesis, carbon-13 labelled naphthoquine, diels-alder cycloaddition, silyloxybutadien, regiochemistry, nucleophilicdisplacement)",university of melbourne (australia),1984
+230,,"dedman, roger",ph.d.,fine arts;biographies,"the development of the art of arnold shore (australia, painting)",university of melbourne (australia),1984
+231,,"milne, rosemary anne",ph.d.,developmental psychology,moral development in early childhood,university of melbourne (australia),1984
+232,,"clark, vincent anthony",ph.d.,ancient languages,a study of new safaitic inscriptions from jordan,university of melbourne (australia),1980
+233,,"ainley, mary d.",ph.d.,educational psychology,explorations in curiosity: breadth and depth of interest curiosity styles,university of melbourne (australia),1986
+234,,"smith, murdo alasdair macdonald",ph.d.,economics,the theory of international trade in capital goods,university of oxford (united kingdom),1973
+235,,"bridges, douglas sutherland",ph.d.,mathematics,constructive mathematics: its set theory and practice,university of oxford (united kingdom),1974
+236,,"giaretta, david leslie",ph.d.,astronomy,instabilities in interstellar space,university of oxford (united kingdom),1977
+237,,"thompson, michael",ph.d.,organic chemistry,organic photochemistry,university of oxford (united kingdom),1978
+238,,"hadjipavlou, savas",ph.d.,theoretical physics,studies in relaxation,university of oxford (united kingdom),1978
+239,,"kendall, wilfrid s.",ph.d.,statistics,some problems in probability theory,university of oxford (united kingdom),1979
+240,,"stove, andrew",ph.d.,condensed matter physics,dot and stripe arrays as surface acoustic wave reflectors,university of oxford (united kingdom),1980
+241,,"cheel, vanessa",ph.d.,optics,diffraction properties of deformed copper single crystals,university of oxford (united kingdom),1980
+242,,"walker, alison bridget",ph.d.,condensed matter physics,studies of disorder in fastionics and of a nuclear quadrupole interaction in ordered markets,university of oxford (united kingdom),1980
+243,,"pitcher, neil",ph.d.,mathematics,an analysis of discretisation methods for ordinary differential equations,university of oxford (united kingdom),1980
+244,,"douglas, bronwen",ph.d.,cultural anthropology;history of oceania,a history of culture contact in north-eastern new caledonia 1774-1870,the australian national university (australia),1972
+245,,"raine, j. i.",ph.d.,paleoecology,pollen sedimentation in relation to the quaternary vegetation history of the snowy mountains of new south wales,the australian national university (australia),1974
+246,,"white, john peter",ph.d.,archaeology,taim bilong bipo: investigations towards a prehistory of the papua - new guinea highlands. (volumes i and ii),the australian national university (australia),1968
+247,,"radtke, kurt werner",ph.d.,classical studies,"yuan sanqu: a study of the prosody and structure of xiaoling"" containedin the ""sanqu"" anthology ""yangchun baixue"" compiled by yang chaoying.""",the australian national university (australia),1975
+248,,"thayer, carlyle alan",ph.d.,international law;international relations,the origins of the national front for the liberation of south vietnam.,the australian national university (australia),1977
+249,,"lauro, donald joseph",ph.d.,demographics,the demography of a thai village: methodological considerations and substantive conclusions from field study in a central plains community,the australian national university (australia),1980
+250,,"johnson, ian",ph.d.,archaeology,the getting of data: a case study from the recent industries of australia,the australian national university (australia),1980
+251,,"hoover, robert linville",ph.d.,cultural anthropology,some aspects of santa barbara channel prehistory,"university of california, berkeley",1971
+252,,"code, william robert",ph.d.,geography,the spatial dynamics of financial intermediaries: an interpretation of the distribution of financial decision-making in canada,"university of california, berkeley",1971
+253,,"borgir, tharald",ph.d.,music,the performance of the basso continuo in seventeenth-century italian music.,"university of california, berkeley",1971
+254,,"key, bernard merril",ph.d.,economic history,"the role of foreign contributions in japanese capital formation, 1868-1936 with special reference to the period 1904-1914","university of california, berkeley",1971
+255,,"johnson, ronald william",ph.d.,fine arts,"the early sculpture of picasso, 1901-1914","university of california, berkeley",1971
+256,"rieffel, marc a.","brauner, kalman george, jr.",ph.d.,mathematics,a class of topologically free locally convex spaces and related group hopf algebras,"university of california, berkeley",1972
+257,,"al-haik, antoine rashid",ph.d.,language arts,exploring the auditory aspects of aptitude for intensive modern foreign language learning.,"university of california, berkeley",1972
+258,,"borromeo, soledad masangkay",ph.d.,history,"el cadiz filipino: colonial cavite, 1571-1896.","university of california, berkeley",1973
+259,,"hunt, james howell",ph.d.,ecology,comparative ecology of ant communities in mediterranean regions of california and chile.,"university of california, berkeley",1973
+260,,"vinson, john wilmot",ph.d.,chemistry,i. synthesis and solvolysis of quadricyclyl-7-carbinol. ii. ab initio studies on bishomocubane and related compounds.,"university of california, berkeley",1973
+261,,"tuttle, mary caroline",ph.d.,psychology,an exploration of c. g. jung's psychological types as predictors of creativity and self-actualization.,"university of california, berkeley",1973
+262,,"jennings, kay donahue",ph.d.,psychology,orientation to the social and physical environment: possible implications for the intellectual development of preschool children.,"university of california, berkeley",1973
+263,,"wickham, robert saunderson",ph.d.,higher education,"university reform in latin america: a case study of the university of valle, cali, colombia.","university of california, berkeley",1973
+264,,"fisher, robert lawrence",ph.d.,psychotherapy,an empirical typology of college women's personal role-conceptions.,"university of california, berkeley",1973
+265,,"sarkisian, ricky alan",ph.d.,psychotherapy,the use of ideal models in covert rehearsal to influence self-concept.,"university of california, berkeley",1974
+266,,"chinn, dennis leslie",ph.d.,economics,potential effects of income redistribution on economic growth constraints: evidence from taiwan and south korea.,"university of california, berkeley",1974
+267,,"mather, john cromwell",ph.d.,astronomy;astrophysics,far infrared spectrometry of the cosmic background radiation.,"university of california, berkeley",1974
+268,,"russell, james william",d.crim.,criminology,delinquency and crime prevention (via diversion of juveniles and delinquents from incarceration),"university of california, berkeley",1974
+269,,"carter, clifford",ph.d.,educational psychology,the effect of semantic interference on a black child's reading comprehension.,"university of california, berkeley",1974
+270,,"cohen, bruce ira",ph.d.,fluid dynamics;gases,theoretical studies of some nonlinear laser-plasma interactions.,"university of california, berkeley",1975
+271,,"bartel, eugene william",ph.d.,electrical engineering,investigation of recovery times in the electrical discharge machining process and the consequences of the influence of the recovery time on thetime between discharges,carnegie mellon university,1971
+272,,"pareja, guillermo enrique",ph.d.,chemical engineering,dynamic optimization of plug flow tubular reactors with recycle,carnegie mellon university,1971
+273,,"wang, paul por-yuan",ph.d.,condensation,statistical mechanics of one-dimensional excluded-volume problem and polymer chain,carnegie mellon university,1971
+274,,"sauer, wolfgang joachim",ph.d.,mechanical engineering,thermal aspects of grinding,carnegie mellon university,1971
+275,,"garg, vijay kumar",ph.d.,mechanical engineering,spatial stability of pipe poiseuille flow to infinitesimal distrubances,carnegie mellon university,1971
+276,,"davis, thomas haydn, iii",ph.d.,condensation,the specific heat and residual resistivity of binary and ternary noble metal alloys,carnegie mellon university,1971
+277,,"corn, jacqueline karnell",d.a.,history,"municipal organization for public health in pittsburgh, 1851-1895",carnegie mellon university,1972
+278,robert c. slack,"hill, dorothy m.",d.a.,literature,a literature-focused humanities unit for the senior high school: its development and evaluation,carnegie mellon university,1972
+279,,"marcus, lawrence harvey",ph.d.,chemistry,an investigation of alkali-metal derivatives of germane and some new fluorosilyl compounds,carnegie mellon university,1972
+280,,"mcmanus, paul francis",ph.d.,civil engineering,lateral buckling of curved plate girders,carnegie mellon university,1972
+281,,"reusch, charles frederick",ph.d.,chemical engineering,selective membrane transport,carnegie mellon university,1972
+282,,"shaftel, timothy lee",ph.d.,business community,standard modules in product design,carnegie mellon university,1972
+283,,"obenauf, ralph harry, jr.",ph.d.,chemistry,the reaction of dicyanoacetylane with atomic oxygen and active nitrogen studied in a flow system with mass spectrometric detection,carnegie mellon university,1972
+284,,"barbacci, mario roberto",ph.d.,computer science,automated exploration of the design space for register-transfer (rt) systems.,carnegie mellon university,1973
+285,,"kaye, stephen edward",ph.d.,chemical engineering,entrance pressure losses for inelastic newtonian and non-newtonian fluids,carnegie mellon university,1973
+286,,"jones, anita katherine",ph.d.,computer science,protection in programmed systems.,carnegie mellon university,1973
+287,,"hariharan, puthugramam chidambaram",ph.d.,chemistry,a study of the use of polarization functions in molecular-orbital calculations on organic compounds,carnegie mellon university,1973
+288,,"lipton, richard j.",ph.d.,computer science,on synchronization primitive systems,carnegie mellon university,1973
+289,,"riccardella, peter charles",ph.d.,mechanics,an implementation of the boundary-integral technique for planar problems of elasticity and elasto-plasticity,carnegie mellon university,1973
+290,,"geschke, charles matthew",ph.d.,computer science,global program optimizations.,carnegie mellon university,1973
+291,,"pollak, henry lewis",ph.d.,geophysics,"some results of earth tide data analysis in the pittsburgh, pennsylvania,area",university of pittsburgh,1971
+292,,"martin, robert arnold, jr.",ph.d.,analytical chemistry,electrodeless conductance measurements using toroidal inductors,university of pittsburgh,1971
+293,,"mazzola, eugene passudette",ph.d.,organic chemistry,micellar catalysis in phosphonate ester hydrolysis,university of pittsburgh,1971
+294,,"van wyk, robert nicholas",ph.d.,religion,god and ethics: a study in moral philosophy and the philosophy of religion,university of pittsburgh,1971
+295,,"spillane, william henry",ph.d.,social work,"comparative study of related health fertility attitudes and behavior of families residing in a poverty area, pittsburgh, 1969",university of pittsburgh,1971
+296,,"shaeffer, d. lynn",ph.d.,fluid dynamics;gases,full wave solution for the transmission of ulf and elf waves through the ionosphere (parts i-iii),university of pittsburgh,1971
+297,,"tepper, leonard p.",ph.d.,geography,"residential mobility of selected school families in pittsburgh, pennsylvania, 1966-1969",university of pittsburgh,1971
+298,,"amick, daniel james",ph.d.,computer science,information processing in basic and applied science: an exploratory study at the interface of the sociology of science and information science,university of pittsburgh,1971
+299,,"sesnowitz, michael louis",ph.d.,economics,the pennsylvania parole system - a cost-benefit analysis,university of pittsburgh,1971
+300,,"patamapongse, patamaka",ph.d.,linguistics,a tagmemic approach to certain thai clauses,university of pittsburgh,1971
+301,,"kaliden, william g., jr.",ph.d.,higher education,"interinstitutional cooperation: a descriptive and evaluative analysis of its status and potentiality, in the commonwealth of pennsylvania, 1970-1971.",university of pittsburgh,1971
+302,,"choe, byung sook",ph.d.,education history,"the impact of the government policy on the development of education in the first republic of korea, 1948-1960",university of pittsburgh,1971
+303,,"weaver, janet elizabeth",ph.d.,education,structure and creativity in early childhood education,university of pittsburgh,1971
+304,,"gottardi, leslie paul",educat.d.,education,a study of procedures and rationale employed in the development of budgets for audio-visual instructional materials in selected public school districts of pennsylvania,university of pittsburgh,1971
+305,,"domber, edward a., jr.",ph.d.,psychology;experiments,facilitation and retardation of instrumental appetitive learning by priorpavlovian aversive conditioning,university of pittsburgh,1971
+306,,"mellott, richard russell",educat.d.,higher education,similarities and differences between awardees and non-awardees in the pennsylvania higher education assistance agency scholarship program 1970-1971,university of pittsburgh,1971
+307,,"fielding, thomas edgar",ph.d.,chemistry,nuclear magnetic resonance studies of icosahedral carboranes and selectedicosahedral carborane derivatives,university of pittsburgh,1971
+308,,"kelly, william allen",educat.d.,vocational education,effectiveness of the pittsburgh junior achievement program in changing attitudes of participating students toward business and work.,university of pittsburgh,1971
+309,,"pavlot, joseph",ph.d.,academic guidance counseling,the effects of reinforcement procedures on negative behaviors in delinquent girls,university of pittsburgh,1971
+310,,"crawley, lantz stephen",ph.d.,organic chemistry,elaboration of fused ring systems by the agency of beta-chloroethyl vinylketone,university of pittsburgh,1971
+311,,"jackson, jeremy bradford cook",ph.d.,ecology,"the ecology of the molluscs of thalassia communities, jamaica, west indies",yale university,1971
+312,,"swann, william kirk, iii.",ph.d.,literature,the techniques of softening e.t.a. hoffmann's presentation of the fantastic.,yale university,1971
+313,,"tattersall, ian",ph.d.,paleontology,"crania and dentitions of archaeolemurinae (lemuroidea, primates)",yale university,1971
+314,,"zannis, paulos e.",ph.d.,mechanics,studies on waves in elastic/viscoplastic media,yale university,1971
+315,,"pilbeam, carol coke",ph.d.,geophysics,acoustic velocities and energy losses in granular aggregates,yale university,1971
+316,,"robertson, raleigh john",ph.d.,ecology,optimal niche space of the red-winged blackbird,yale university,1971
+317,,"meid, elizabeth s.",ph.d.,psychology;experiments,the effects of two types of success and failure on children's discrimination learning and evaluations of performance,yale university,1971
+318,,"yang, ralph tzu-bow",ph.d.,chemical engineering,surface diffusion and its dependence on surface water,yale university,1971
+319,,"parsons, frederick george",ph.d.,condensation,the dispersion of the nonlinear optical susceptibility of some wurtzite and zinc-blende semiconductors,yale university,1971
+320,,"wartell, michael alan",ph.d.,chemistry,semiclassical theory applied to vibrationally inelastic scattering in three dimensions,yale university,1971
+321,,"pappas, anthony",ph.d.,economic theory,adaptive behavior and speculative price formation,yale university,1971
+322,,"yau, joseph woong-sang",ph.d.,physics,raman scattering in liquid helium and roton-roton interactions,yale university,1971
+323,,"warshaw, stephen jay",ph.d.,ecology,"some aspects of the ecology of limnetic zooplankton in lake wononskopmuc,connecticut",yale university,1971
+324,,"storms, michael david",ph.d.,social psychology,videotape and the attribution process: changing actors' and observers' points of view,yale university,1971
+325,,"howland, gary paul",ph.d.,biology,"structural, biochemical and physiological aspects of photomorphogenesis in fern gametophytes",yale university,1971
+326,,"schneider, bruce stanley",ph.d.,molecules,"fluorescence of singly positive molecular ions of hydrogen-bromide carbon-disulfide, and nitrous-oxide",yale university,1971
+327,,"smith, gary nance",ph.d.,finance,estimating a general disequilibrium model of the financial sector,yale university,1971
+328,,"scott, paul vanvelzor",ph.d.,pharmacology,the effect of reserpine on macromolecular synthesis and the repletion of biogenic amines,yale university,1971
+329,,"sears, alan roy",ph.d.,chemistry,adsorption at the mercury-aqueous solution electrical double layer,yale university,1971
+330,,"sundell, robert elmer",ph.d.,mechanical engineering,an experimental investigation of spherical cap bubbles in liquids,yale university,1971
+331,,"shaw, david george",ph.d.,organic chemistry,the aromatization of dewar benzene: a mechanistic study,harvard university,1971
+332,,"wheland, robert clayton",ph.d.,organic chemistry,mechanism of fluoroalkene cycloaddition and alpha-lactone chemistry,harvard university,1971
+333,,"kim, chang hwan",ph.d.,chemistry,transition-metal complexes with organosilylamines,harvard university,1972
+334,,"cohen, jonathan brewer",ph.d.,chemistry,microwave-microwave double resonance investigations of collisional transfer of rotational energy,harvard university,1972
+335,,"lewis, ralph g.",educat.d.,minority & ethnic groups;sociology,the relationship of classroom racial composition to student academic achievement and the conditioning effects of inter-racial social acceptance,harvard university,1971
+336,,"williams, lewis david",ph.d.,organic chemistry,the hydrolysis of some n-substituted cyclic phosphorodiamidates of ethylenediamine,harvard university,1971
+337,,"faber, sandra moore",ph.d.,astronomy;astrophysics,photometry of elliptical galaxies in multiple systems,harvard university,1972
+338,,"hoffman, jeffrey alan",ph.d.,astronomy;astrophysics,a gas-cerenkov telescope experiment to observe cosmic gamma-rays,harvard university,1971
+339,,"kirst, herbert andrew",ph.d.,chemistry,new applications of organometallic reagents in organic synthesis. a stereospecific total synthesis of alpha-santalol,harvard university,1972
+340,,"mallet, jacques jean-benoit",ph.d.,chemistry,competition between concerted and biradical diels-alder reactions,harvard university,1972
+341,,"saunders, barbara breidenbach",ph.d.,chemistry,the reactions of methylene with isobutane and cyclopropane,harvard university,1972
+342,,"cesarsky, catherine jeanne",ph.d.,astronomy;astrophysics,interactions of cosmic rays with hydromagnetic waves in the galaxy.,harvard university,1972
+343,,"kurshan, neil",educat.d.,education history,"the eight-year study: origins, impact and implications.",harvard university,1973
+344,,"fischer, richard gatts",d.b.a.,finance,improving investment performance and the role of fixed-income securities,harvard university,1973
+345,,"bunting, charles i.",educat.d.,school administration,the process of program initiation at the federal level: papers on the national foundation for post-secondary education.,harvard university,1973
+346,,"williamson, lorna joan",ph.d.,organic chemistry,intramolecular catalysis in the hydrolysis of some phosphonate esters.,harvard university,1973
+347,,"schneider, steven alan",ph.d.,literature,the dissonant design: john ford and the art of tragedy.,harvard university,1973
+348,,"dolan, william patrick, jr.",educat.d.,education,"the role of the assistant academic vice president, saint louis university--1972-1973: an analysis of an intervention.",harvard university,1973
+349,,"lafayette, bernard, jr.",educat.d.,school administration,pedagogy for peace and nonviolence: a critical analysis of peace and nonviolence studies programs on college campuses in the northeastern usa.,harvard university,1974
+350,,"mastrocola, antonietta rose",ph.d.,organic chemistry,stereoselectivity in the thermal rearrangement of optically active cyclobutanes.,harvard university,1974
+351,,"boone, james ronald",ph.d.,organic chemistry,metal-hydride reduction of ketones: stereochemistry and kinetics.,georgia institute of technology,1974
+352,,"ishii, mamoru",ph.d.,mechanical engineering,thermally induced flow instabilities in two-phase mixtures in thermal equilibrium,georgia institute of technology,1971
+353,,"weser, don benton",ph.d.,organic chemistry,the kinetics and mechanism of nucleophilic substitution on 9-substituted-6-chloropurines,georgia institute of technology,1971
+354,,"mckelvey, john murray, jr.",ph.d.,organic chemistry,kinetics of iodination of methyl substituted benzenes,georgia institute of technology,1971
+355,,"yoon, yo kil",ph.d.,chemical engineering,gas-liquid phase equilibria in the helium - carbon-tetrafluoride and helium - chlorotrifluoromethane systems at low temperatures and 20-120 atmospheres,georgia institute of technology,1971
+356,,"kocamustafaogullari, gunol",ph.d.,mechanical engineering,thermo-fluid dynamics of separated two-phase flow,georgia institute of technology,1971
+357,,"alkidas, alexandros costas",ph.d.,mechanical engineering,the steady-state theory of ignition of flowing gaseous mixtures by hot surfaces,georgia institute of technology,1971
+358,,"abidaud, alvaro",ph.d.,organic chemistry,kinetic study on the nucleophilic substitution of purines,georgia institute of technology,1971
+359,,"hill, robert howard, jr.",ph.d.,organic chemistry,the chemistry of endo-triazolines,georgia institute of technology,1972
+360,,"lores, manuel edward",ph.d.,aerospace materials,a theoretical study of nonlinear longitudinal combustion instability in liquid propellant rocket engines,georgia institute of technology,1972
+361,,"sanchez, joseph peter",ph.d.,organic chemistry,the photochemistry of azafulvenes,georgia institute of technology,1972
+362,,"ko, ming",ph.d.,organic chemistry,substituent effect of photochemical rearrangements of cross-conjugated cyclohexadienones related to indanone,georgia institute of technology,1972
+363,,"little, william campbell",ph.d.,mechanical engineering,the role of sediment gradation on channel armoring,georgia institute of technology,1972
+364,,"lake, james alan",ph.d.,nuclear physics;energy,"measurement of steady-state, space dependent thermal-neutron-spectra in beryllium",georgia institute of technology,1972
+365,,"bell, william alvin",ph.d.,aerospace materials,experimental determination of three-dimensional liquid rocket nozzle admittances,georgia institute of technology,1972
+366,,"leach, william marshall, jr.",ph.d.,electrical engineering,probe compensated near-field measurements on a cylinder,georgia institute of technology,1972
+367,,"chakravarti, bhaven",ph.d.,metallurgy,short-range order and development of long-range order in nickel - 20 atomic percent molybdenum alloy,georgia institute of technology,1973
+368,,"jakobsen, joergen",ph.d.,mechanical engineering,lubricant rheology at high shear stress.,georgia institute of technology,1973
+369,,"reich, ricardo",ph.d.,chemical engineering,"adsorption on activated carbon of methane, ethane, and ethylene gases and their mixtures and carbon-dioxide at 212 k, 260 k, and 301 k and up to thirty-five atmospheres.",georgia institute of technology,1974
+370,,"saha, pradip",ph.d.,mechanical engineering,"thermally induced two-phase flow instabilities, including the effect of thermal non-equilibrium between the phases.",georgia institute of technology,1974
+371,,"tenenbaum, jay martin",ph.d.,computer science,accommodation in computer vision,stanford university,1971
+372,,"oyelaran, olasope oyediji",ph.d.,linguistics,yoruba phonology,stanford university,1971
+373,,"konno, hiroshi",ph.d.,mathematics,bilinear programming,stanford university,1971
+374,,"machline, claude",ph.d.,business community,price-level changes and the inventory policy of the firm,stanford university,1971
+375,,"tanner, robert michael",ph.d.,mathematics,contributions to the simplex code conjecture,stanford university,1971
+376,,"stuckless, john shearing",ph.d.,geology,"the petrology and petrography of the volcanic sequence associated with the superstition caldera, superstition mountains, arizona",stanford university,1971
+377,,"chen, louis hsiao-yun",ph.d.,statistics,poisson approximation for sums of dependent bernoulli random variables,stanford university,1971
+378,,"ray, edward john",ph.d.,finance,finance in a development context: lessons from west germany,stanford university,1971
+379,,"cox, james leslie",ph.d.,biology,ddt residues in coastal marine phytoplankton and their transfer in pelagic food chains,stanford university,1971
+380,,"vencill, corwin daniel",ph.d.,finance,economies of scale in financial intermediation: a statistical investigation of california savings and loan associations,stanford university,1971
+381,,"singer, michael christopher",ph.d.,biology,ecological studies on the butterfly euphydryas editha,stanford university,1971
+382,,"wirt, john gary",ph.d.,engineering,optimization of price and quality in service systems,stanford university,1971
+383,,"elliott, james edward",ph.d.,geology,"the mineralogy and geochemistry of the tungsten deposits of the black rock mine area, mono county, california",stanford university,1971
+384,,"hall, wilton earl, jr.",ph.d.,aerospace materials,computational methods for the synthesis of rotary-wing vtol aircraft control systems,stanford university,1971
+385,,"gilbert, lawrence edmund, jr.",ph.d.,entomology;ecology,influence of resource distribution and abundance on butterfly population structure,stanford university,1971
+386,,"armand, jean-louis pierre",ph.d.,aerospace materials,applications of the theory of optimal control of distributed-parameter systems to structural optimization,stanford university,1971
+387,,"sumner, john randolph",ph.d.,geophysics,"tectonic significance of geophysical investigations in southwestern arizona and northwestern sonora, mexico, at the head of the gulf of california",stanford university,1971
+388,,"sukale, michael hermann",ph.d.,philosophy,four studies in phenomenology and pragmatism,stanford university,1971
+389,,"schmidt, rodney albert, jr.",ph.d.,electrical engineering,a study of the real-time control of a computer-driven vehicle,stanford university,1971
+390,,"morris, peter alan",ph.d.,engineering,bayesian expert resolution,stanford university,1971
+391,irwin pollack,"decoster, lee frederick",ph.d.,psychology;experiments,memory codes revealed by response latencies,university of michigan,1971
+392,russell e. wilson,"thomas, john archie",ph.d.,school administration,"a marketing analysis model applied to roman catholic elementary and secondary education in toledo, ohio",university of michigan,1971
+393,joseph n. payne,"shoecraft, paul joseph",ph.d.,education,"the effects of provisions for imagery through materials and drawings on translating algebra word problems, grades seven and nine",university of michigan,1971
+394,emil a. holz,"cavanagh, george alfred",educat.d.,education history;music history;music education,william d. revelli: the hobart years,university of michigan,1971
+395,"t. michael senders, jr.","ihas, gary gene",ph.d.,physics,exotic ions in liquid helium,university of michigan,1971
+396,maurice j. sinnott,"muscara, joseph",ph.d.,metallurgy,a metallurgical study of high stress abrasion,university of michigan,1971
+397,peter fodale,"stewart, michael f.",ph.d.,linguistics,"a logical basis for nouns, adjectives, and verbs",university of michigan,1971
+398,william p. alston,"kamler, howard frederick",ph.d.,philosophy,the concept of empathic understanding,university of michigan,1971
+399,carl m. pearcy,"turner, thomas rolf",ph.d.,mathematics,double commutants of singly generated operator algebras,university of michigan,1971
+400,frithjof bergmann,"whiteside, david edward",ph.d.,philosophy,an analysis of the concept of alienation in karl marx's early writings,university of michigan,1971
+401,hans h. brintzinger,"marvich, robert hyman",ph.d.,chemistry,reactions of molecular nitrogen with titanocene and its derivatives,university of michigan,1971
+402,gwynn mcpeek,"dean, jerry mac",ph.d.,music,"evolution and unity in schoenberg's 'george songs,' op. 15",university of michigan,1971
+403,graham palmer,"ballou, david penfield",ph.d.,biochemistry,instrumentation for the study of rapid biological oxidation-reduction reactions by epr and optical spectroscopy,university of michigan,1971
+404,e. wm. heinrich,"boardman, shelby jett",ph.d.,geology,"precambrian geology and mineral deposits of the salida area, chaffee county, colorado",university of michigan,1971
+405,herbert h. paper,"sharifi, hassan",ph.d.,linguistics,a generative approach to the development of avestan and old persian consonants,university of michigan,1971
+406,rane l. curl,"ross, seymour l.",ph.d.,chemical engineering,measurements and models of the dispersed phase mixing process,university of michigan,1971
+407,jay l. robinson,"ito, eiko tamano",educat.d.,linguistics,sentential complementation in middle english and early modern english: a study of linguistic change,university of michigan,1971
+408,harvey e. brazer,"akin, john stephen",ph.d.,finance,estimation of local fiscal capacity,university of michigan,1971
+409,william frankena,"landesman, bruce michael",ph.d.,philosophy,"the obligation to obey the law: an essay on law, social institutions, andmorality",university of michigan,1971
+410,samuel j. eldersveld,"canfield, james lewis",ph.d.,political science,"the wallace campaign worker in wayne county, michigan",university of michigan,1971
+411,,"steinberg, arne jo",d.m.a.,music,franz liszt's approach to piano playing,"university of maryland, college park",1971
+412,,"shuster, malcolm david",ph.d.,nuclear physics,pion production in nuclear collisions,"university of maryland, college park",1971
+413,,"fearnsides, john joseph",ph.d.,aerospace materials;energy,minimum-fuel attitude control and stabilization of an inertially-orientedspace station.,"university of maryland, college park",1971
+414,,"keith, theo gordon, jr.",ph.d.,mechanical engineering,finite difference solutions of steady laminar flow through a pipe orifice,"university of maryland, college park",1971
+415,,"carder, mazie pauline hinson",educat.d.,music,"george frederick root, pioneer music educator: his contributions to mass instruction in music","university of maryland, college park",1971
+416,,"falkler, william alexander, jr.",ph.d.,immunology,radioiodine labeled human immunoglobulin-g and immunoglobulin-g fraction of rabbit anti-human immunoglobulin-g serum: the use of labeled antibodyas antibody in percipitation and double antibody reactions and as antigen in precipitation and double antibody radioimmunoassays,"university of maryland, college park",1971
+417,,"abeles, harold fred",ph.d.,music,an application of the facet-factorial approach to scale construction in the development of a rating scale for clarinet music performance,"university of maryland, college park",1971
+418,,"emara, mostafa mahmoud",ph.d.,chemistry,ultrasonic absorption study of epsilon-caprolactam in cyclohexane solutions,"university of maryland, college park",1971
+419,,"gold, oliver david",ph.d.,education history,"the soldiers' orphan schools of pennsylvania, 1864-1889","university of maryland, college park",1971
+420,,"kadarsan, sampurno",ph.d.,zoology,larval ixodid ticks of indonesia (acarina: ixodidae),"university of maryland, college park",1971
+421,,"king, wilbert allen",educat.d.,higher education,the effects of video-tape feedback on the achievement of students in a beginning conducting class,"university of maryland, college park",1971
+422,,"delbeato, donald joseph",ph.d.,academic guidance counseling,the effect of one type of preinterview verbal discrimination training model on verbal behavior in an interview setting,"university of maryland, college park",1971
+423,,"beaman, bobby glenn",ph.d.,botany,comparative systematic anatomy of the parasite cassytha (lauraceae),"university of maryland, college park",1971
+424,,"lee, changsoo",ph.d.,international law;international relations,the politics of the korean minority in japan,"university of maryland, college park",1971
+425,,"ralph, ruth s.",ph.d.,educational psychology,the effects of general semantics on the personality adjustment of elementary school children,"university of maryland, college park",1971
+426,,"kamel, ihab labib",ph.d.,nuclear physics,radiation-induced grafting of styrene to polyethylene and hexatriacontane,"university of maryland, college park",1971
+427,,"block, ira",ph.d.,nuclear physics,radiation-induced grafting of butadiene to chlorinated polyethylene and poly(vinyl chloride),"university of maryland, college park",1971
+428,,"van houte, samuel",ph.d.,ancient civilizations,the freedmen at pompeii,"university of maryland, college park",1971
+429,,"barde, robert elmer",ph.d.,history,the battle of midway: a study in command,"university of maryland, college park",1971
+430,,"bell, a. robert",ph.d.,literature,the harrowing of hell: a study of its reception and artistic interpretation in early mediaeval european literature,"university of maryland, college park",1971
+431,,"ross, stephen mark",ph.d.,biomedical research,a wavy wall analytical model of muco-ciliary pumping,the johns hopkins university,1971
+432,,"fu, james chuan",ph.d.,statistics,on some large-sample methods in statistical point estimation,the johns hopkins university,1971
+433,,"jaeger, rudolph john",ph.d.,health,"studies on the extraction, accumulation and metabolism of phthalate esterplasticizers from polyvinyl chloride medical devices",the johns hopkins university,1971
+434,,"smith, terence robert",ph.d.,geography,conservation principles and stability in the evolution of drainage systems,the johns hopkins university,1971
+435,,"riley, james joseph, jr.",ph.d.,mechanics,computer simulations of turbulent dispersion,the johns hopkins university,1971
+436,,"haynes, kingsley edwin",ph.d.,geography,the distribution and arrangement of urban structure and spatial change,the johns hopkins university,1971
+437,,"shammas, carole",ph.d.,history,the elizabethan gentlemen adventurers and western planting,the johns hopkins university,1971
+438,,"carman, charles henry",ph.d.,fine arts,cigoli studies,the johns hopkins university,1972
+439,,"tjaden, garold stephen",ph.d.,computer science,representation and detection of concurrency using ordering-matrices.,the johns hopkins university,1972
+440,,"banner, michael leslie",ph.d.,oceanography,an investigation of the role of short waves and wind drift in the interaction between wind and long gravity waves.,the johns hopkins university,1973
+441,,"wagman, stephen robert",ph.d.,literature,the living lyre: a study of the poetry of thomas gray,the johns hopkins university,1973
+442,,"apitz, elly marie friese",ph.d.,germanic literature,"the poetic development of barthold heirich brockes in his irdisches vergnuegen in gott.""""",the johns hopkins university,1971
+443,,"rimbach, james allen",ph.d.,religion,animal imagery in the old testament: some aspects of hebrew poetics,the johns hopkins university,1972
+444,,"borukhov, eliyahu",ph.d.,economics,"city size, land use and transportation costs.",the johns hopkins university,1972
+445,,"gustafson, jerry w.",ph.d.,economics,an essay on the concept of collective rationality,the johns hopkins university,1972
+446,,"boettinger, william james",ph.d.,materials science,surface relief cinemicrography of the unsteady solidification of the lead - tin - cadmium ternary eutectic,the johns hopkins university,1972
+447,,"batto, bernard frank",ph.d.,ancient civilizations,studies on women at mari: politics and religion.,the johns hopkins university,1972
+448,,"plotkin, howard neil",ph.d.,history,henry draper: a scientific biography,the johns hopkins university,1972
+449,,"capozza, dennis robert",ph.d.,economic theory,transportation and the urban economy.,the johns hopkins university,1972
+450,,"dussan v., elizabeth b.",ph.d.,mechanical engineering,on the motion of a line common to three different materials,the johns hopkins university,1972
+451,,"laguna, glenn alan",ph.d.,mechanical engineering,second sound attenuation in a liquid helium counterflow jet.,california institute of technology,1975
+452,,"barbee, james henry",ph.d.,biomedical research,the flow of human blood through capillary tubes with inside diameters between 8.7 and 221 microns,california institute of technology,1971
+453,,"hwang, myung kyu",ph.d.,chemical engineering,estimation and control of stochastic chemical systems,california institute of technology,1971
+454,,"okoye, josephat kanayo",ph.d.,engineering,characteristics of transverse mixing in open-channel flows,california institute of technology,1971
+455,,"silver, richard neil",ph.d.,particle physics,two topics in particle physics: i. tests for helicity conservation and spin-parity selection rules in diffraction dissociaiton. ii. independent production of pions,california institute of technology,1971
+456,,"will, clifford martin",ph.d.,physics,theoretical frameworks for testing relativistic gravity; the parametrizedpost-newtonian formalism,california institute of technology,1971
+457,,"casperson, lee wendel",ph.d.,optics,modes and spectra of high gain lasers,california institute of technology,1971
+458,,"puckett, jason niles, jr.",ph.d.,electrical engineering,an electrical and statistical study of burst noise,california institute of technology,1971
+459,,"stroyan, keith duncan",ph.d.,mathematics,applications of model theory to complex analysis,california institute of technology,1971
+460,,"thatcher, wayne raymond",ph.d.,geophysics,surface wave propagation and source studies in the gulf of california region,california institute of technology,1972
+461,,"owyoung, adelbert",ph.d.,electrical engineering,the origins of the nonlinear refractive indices of liquids and glasses,california institute of technology,1972
+462,,"wester, gene ward",ph.d.,electrical engineering,low-frequency characterization of switched dc-dc converters,california institute of technology,1972
+463,,"caloyannides, michael akylas",ph.d.,electrical engineering,a mathematical and experimental investigation of microcycle spectral estimates of semiconductor flicker noise,california institute of technology,1972
+464,,"shostak, gerson seth",ph.d.,astronomy;astrophysics,aperture synthesis observations of neutral hydrogen in three galaxies,california institute of technology,1972
+465,,"chang, daniel pan yih",ph.d.,civil engineering,particle collection from aqueous suspensions by solid and hollow single fibers.,california institute of technology,1973
+466,,"harris, daniel charles",ph.d.,chemistry,more fun than anything. (a study of cyclopropenium salts),california institute of technology,1973
+467,,"blevins, robert dilworth",ph.d.,mechanics,flow induced vibration of bluff structures.,california institute of technology,1974
+468,,"morris, howard cary",ph.d.,mathematics,two pigeon-hole principles and unions of convexly-disjoint sets.,california institute of technology,1974
+469,,"shaffer, david bruce",ph.d.,astronomy;astrophysics,the structure of compact radio sources at 10.7 ghz.,california institute of technology,1974
+470,,"prosperetti, andrea",ph.d.,physics,viscous and nonlinear effects in the oscillations of drops and bubbles.,california institute of technology,1974
+471,,"johnson, william lewis",ph.d.,condensation,superconductivity in metal-semiconductor eutectic alloys.,california institute of technology,1975
+472,,"kosecoff, michael alan",ph.d.,mathematics,some problems in nonlinear elasticity.,california institute of technology,1975
+473,,"shiu, elias sai wan",ph.d.,mathematics,numerical ranges of powers of operators.,california institute of technology,1975
+474,,"brown, thomas carl, jr.",ph.d.,mathematics,a structured design-method for specialized proof procedures.,california institute of technology,1975
+475,,"kotsovinos, nikolas evangelos",ph.d.,mechanical engineering,a study of the entrainment and turbulence in a plane buoyant jet.,california institute of technology,1975
+476,,"russell, robert l.",ph.d.,vocational education,assessment of department store selling competency,colorado state university,1971
+477,,"olsen, john leslie",ph.d.,zoology,"life history of physaloptera rara (hall and wigdor, 1918) in definitive, intermediate, and paratenic hosts",colorado state university,1971
+478,,"reed, david ellsworth",ph.d.,microbiology,epizootic bovine abortion: tissue predilection and serologic evaluation of the etiologic agent,colorado state university,1971
+479,,"westcott, paul arthur",ph.d.,polymers,"2,2'-bipyrimidine coordination polymers",colorado state university,1971
+480,,"al turki, mansoor i.",ph.d.,economics,accelerating agricultural production in saudi arabia,colorado state university,1971
+481,,"mcwhorter, david bruce",ph.d.,agricultural engineering,infiltration affected by flow of air,colorado state university,1971
+482,,"hunt, john denure",ph.d.,recreation,image--a factor in tourism,colorado state university,1971
+483,,"woodmansee, robert george",ph.d.,forestry,soil descriptions and simulation model of potassium cycling in colorado forests,colorado state university,1972
+484,,"addink, john william",ph.d.,agricultural engineering,water infiltration under center-pivots.,colorado state university,1972
+485,,"kilinc, mustafa yilmaz",ph.d.,civil engineering,mechanics of soil erosion from overland flow generated by simulated rainfall,colorado state university,1972
+486,,"nicoletti, john albert, jr.",ph.d.,psychotherapy,anxiety management training,colorado state university,1972
+487,,"stockhouse, robert erland, ii",ph.d.,botany,biosystematic studies of oenothera (l.) subgenus pachylophus.,colorado state university,1973
+488,,"de long, richard allan",ph.d.,zoology,immunogenetics of salmonid serum proteins.,colorado state university,1973
+489,,"nordblom, gerald david",ph.d.,organic chemistry;energy,chlorinated pollutant photodynamics,colorado state university,1973
+490,,"niimura, masanobu",ph.d.,fluid dynamics;gases,plasma-solid interface energy transport.,colorado state university,1973
+491,,"teotia, jagdish singh",ph.d.,livestock,chemical pasteurization of poultry meat.,colorado state university,1973
+492,,"chappell, alonzo",ph.d.,livestock,metabolic fate of nitrogen-15 and carbon-14 labeled betaine.,colorado state university,1973
+493,,"acott, howard neil",ph.d.,school administration,reactions of auto mechanics terminees and supervisors to the importance and quality of auto mechanics training.,colorado state university,1973
+494,,"creighton, phillip david",ph.d.,ecology,habitat exploitation by an avian ground-foraging guild.,colorado state university,1974
+495,,"mendelson, sheldon ray",ph.d.,vocational education,relationship between innovative teachers and student achievement and career aspirations.,colorado state university,1974
+496,,"allardice, david ross",ph.d.,economics,economic and legal protection for aquatic habitats in the united states.,colorado state university,1974
+497,,"liu, jeong-shwu",ph.d.,civil engineering,verification of a mathematical model for wood joist floor systems.,colorado state university,1974
+498,,"narang, rajinder singh",ph.d.,chemistry,induced photolysis of alkyl halides,colorado state university,1972
+499,,"henghold, william murray",ph.d.,civil engineering,layered beam vibrations including slip,colorado state university,1972
+500,,"crain, william james",ph.d.,vocational education,the development and field testing of a written occupational competency examination for auto mechanic teachers.,colorado state university,1973
