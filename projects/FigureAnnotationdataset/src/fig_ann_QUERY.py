@@ -43,7 +43,7 @@ def tuplesTolist(tuple_text):
         fig_ann = list(values)
         list_.append(fig_ann)
     
-    return etd_list
+    return list_
 
 record = tuplesTolist(rows)
 csvfile = open('fig_ann.csv', 'w')
