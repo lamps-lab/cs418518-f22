@@ -1,0 +1,3 @@
+function okayClick() {
+  alert("booyah");
+}
