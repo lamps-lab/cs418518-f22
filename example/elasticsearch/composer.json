@@ -1,0 +1,7 @@
+{
+    "require": {
+        "elasticsearch/elasticsearch": "~7.0",
+        "monolog/monolog": "~1.0",
+        "google/cloud-speech": "^0.28.0"
+    }
+}
