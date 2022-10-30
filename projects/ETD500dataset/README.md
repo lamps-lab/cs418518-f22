@@ -10,3 +10,5 @@ This directory contains three files.
 	* this directory contains the wikifier example script.
 
 * Link to all 500 ETDs: https://drive.google.com/file/d/1A3-l92-rVrkJ3jAVNdtDnD1SaV81pFgs/view?usp=sharing
+
+* Link to wikifier: https://wikifier.org/info.html
