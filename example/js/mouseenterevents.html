@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Events: Further Mouse Handling</title>
+    <script src='http://code.jquery.com/jquery-3.2.1.min.js'></script>
+  </head>
+  <body>
+    <h2 id='test'>Pass the mouse over me</h2>
+    <script>
+      $('#test').mouseenter(function() { $(this).html('Hey, stop tickling!') } )
+      $('#test').mouseleave(function() { $(this).html('Where did you go?')   } )
+    </script>
+  </body>
+</html>
